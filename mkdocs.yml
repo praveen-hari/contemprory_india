@@ -56,6 +56,7 @@ nav:
       - Types of Social Inequality: unit5_euality_10marks/types_of_social_inequality.md
       - Causes of Inequality in Education: unit5_euality_10marks/causes_of_inequality_in_education.md
       - Education for Marginalized Groups: unit5_euality_10marks/education_marginalized_groups.md
+      - Education to Eliminate Social Inequalities: unit5_euality_10marks/education_to_eliminate_inequality.md
 
 markdown_extensions:
   - pymdownx.highlight:
