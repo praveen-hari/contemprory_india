@@ -1,0 +1,85 @@
+site_name: Contemporary India - Education Studies
+site_description: Comprehensive study material on Contemporary India and Educational Systems
+site_author: Praveen Kumar
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: en
+
+nav:
+  - Home: index.md
+  - Unit 1 - Constitutional & Educational Framework:
+      - Constitution Relating to Education: unit1/constitution_relating_to_education.md
+      - Fundamental Rights in Indian Constitution: unit1/fundamental_rights_inidan_constitution.md
+      - Professional Education: unit1/professional_education.md
+      - Right to Education: unit1/right_to_education.md
+      - Secondary Education: unit1/secondary_education.md
+      - Social Justice & Education: unit1/social_justice_education.md
+  - Unit 2 - Social Diversity:
+      - Meaning & Definition of Social Diversity: unit2_social_diversity/meaning_defnition_social_diversity.md
+      - Levels of Social Diversity: unit2_social_diversity/levels_social_diversity.md
+      - Interdisciplinary Nature of Education: unit2_social_diversity/inter_disciplinary_nature_education.md
+      - Role of Education in Creating Positive Environment: unit2_social_diversity/role_of_education_creating_positive.md
+  - Unit 3 - Educational Demands & Programs:
+      - Four Pillars of Education (Delors): unit3_educational_demands/four_pillars_of_education_delor's.md
+      - Universalisation of Primary Education: unit3_educational_demands/universalisation_of_primary_education.md
+      - Sarva Shiksha Abhiyan (SSA): unit3_educational_demands/ssa.md
+      - Rashtriya Madhyamik Shiksha Abhiyan (RMSA): unit3_educational_demands/rmsa.md
+      - Rashtriya Uchchatar Shiksha Abhiyan (RUSA): unit3_educational_demands/rusa.md
+  - Unit 4 - Language Policy:
+      - Language Policy in Constitution: unit4_language_policy/language_policy_constitution.md
+      - Language Policy During & After Independence: unit4_language_policy/language_policy_during_after.md
+      - Views of Great Indian Thinkers: unit4_language_policy/views_of_great_indian_thinkers.md
+  - Unit 5 - Equality in Education:
+      - Types of Social Inequality: unit5_euality_10marks/types_of_social_inequality.md
+      - Causes of Inequality in Education: unit5_euality_10marks/causes_of_inequality_in_education.md
+      - Education for Marginalized Groups: unit5_euality_10marks/education_marginalized_groups.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/praveenkumarh
+
+copyright: Copyright &copy; 2026 Contemporary India Education Studies
