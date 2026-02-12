@@ -127,3 +127,52 @@ Private unaided schools must reserve **25% seats** for children from disadvantag
 The RTE Act, 2009 marks a historic step in achieving **Universalisation of Elementary Education** in India. By making education a fundamental right, prescribing quality standards, ensuring non-discrimination, and promoting social inclusion, the Act has significantly improved enrolment and access. Despite implementation challenges, it remains a milestone in ensuring free, compulsory, and quality education for every child in India.
 
 ---
+
+## 📝 Key Points & Mnemonics for Exam Preparation
+
+### **Mnemonic for Background:**
+**"45-86-21A"**
+- **Article 45**: Directive Principle (1950) - Not enforceable
+- **86th Amendment**: 2002 - Made education a fundamental right
+- **Article 21A**: Free & Compulsory education 6-14 years
+
+### **Key Dates to Remember:**
+- Act passed: **4th August 2009**
+- Act enforced: **1st April 2010**
+
+### **Mnemonic for 10 Salient Features:**
+**"FCBOT QSZGC"** (Remember as "FC-BOT Q-S-Z-G-C")
+1. **F** - Free and Compulsory Education
+2. **C** - CCE (Continuous & Comprehensive Evaluation)
+3. **B** - Benchmark standards for schools
+4. **O** - Out-of-school children provisions
+5. **T** - Teacher quantity and quality
+6. **Q** - Quality teaching (child-centered)
+7. **S** - SMC (School Management Committees)
+8. **Z** - Zero tolerance against discrimination
+9. **G** - Grievance redressal mechanism
+10. **C** - 25% reservation (Social inclusion)
+
+### **Mnemonic for Zero Tolerance (No's):**
+**"SCCDB"** (No Screening, Capitation, Corporal, Discrimination, Birth certificate)
+- **S** - Screening tests (prohibited)
+- **C** - Capitation fee (prohibited)
+- **C** - Corporal punishment (prohibited)
+- **D** - Discrimination (prohibited)
+- **B** - Birth certificate (not required)
+
+### **SMC Composition:**
+**"75% Parents + 50% Women"**
+
+### **Distance Norms:**
+**"1-3 Rule"**
+- Primary school: Within **1 km**
+- Upper Primary: Within **3 km**
+
+### **Quick Recall:**
+- RTE = **Children aged 6-14 years**
+- Teachers cannot do **non-academic work** (except census, elections, disaster relief)
+- **No detention** before completing elementary education
+- Private schools: **25% EWS/DG reservation**
+
+---

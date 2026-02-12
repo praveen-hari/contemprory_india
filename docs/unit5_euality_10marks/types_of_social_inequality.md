@@ -178,4 +178,109 @@ Thus, social inequality in India exists due to caste, gender, class, and regiona
 
 ---
 
-If you want, I can prepare **short 5-mark notes** or a **diagram/table-based revision format** for this chapter 📘✨
+## 📝 Key Points & Mnemonics for Exam Preparation
+
+### **Mnemonic for 4 Types of Social Inequality:**
+**"CGGR"** or **"2C-2G-R"** (Caste-Class-Gender-Region)
+1. **C** - Caste-based inequality
+2. **G** - Gender-based inequality
+3. **C** - Class-based inequality (use second C)
+4. **R** - Regional inequality
+
+Or remember: **"Caste, Gender, Class, Region"**
+
+### **Post-Independence Realities (5 Points):**
+**"DEPWC"** (DEP-WC)
+- **D** - Democracy (not equal participation)
+- **E** - Economic policies (favour rich)
+- **P** - Power-sharing (weak)
+- **W** - Weaker sections (lack opportunities)
+- **C** - Citizens (not treated equally)
+
+### **Caste System Characteristics (4 Main):**
+**"CEOH"** (CEO-H)
+- **C** - Customs & rules (*Kula Dharma*)
+- **E** - Endogamy (same caste marriage)
+- **O** - Occupations (hereditary)
+- **H** - Hierarchical (based on four varnas)
+
+### **Nehru's Quote:**
+**"Cancer afflicting Indian society"** (about caste system)
+
+### **Caste Solutions (3 Main):**
+**"REI"** (Reservation-Empowerment-Intermarriage)
+- **R** - Reservation system
+- **E** - Empowerment (self-confidence, hard work)
+- **I** - Inter-caste marriages
+
+### **Gender Inequality Areas (5 Spheres):**
+**"FSWPP"** (FS-WPP)
+- **F** - Family
+- **S** - Schools
+- **W** - Workplaces
+- **P** - Public spaces
+- **P** - Politics
+
+### **Gender Inequality in Education (4 Issues):**
+**"EDPS"** (ED-PS)
+- **E** - Enrollment (girls lower)
+- **D** - Drop-out (high rate)
+- **P** - Professional courses (limited access)
+- **S** - Sexual harassment
+
+### **Gender Inequality in Employment (3 Issues):**
+**"TWR"** (Top-Wage-Restrictions)
+- **T** - Top posts (fewer women)
+- **W** - Wage gap (same work, less pay)
+- **R** - Restrictions (certain jobs barred)
+
+### **Women's Reservation:**
+**30-50%** in local bodies (Panchayats)
+
+### **Three Classes Memory:**
+**"HML"** (High-Middle-Low)
+
+| Class | Who | Features |
+|-------|-----|----------|
+| **H**igh | Industrial owners, officials | Control resources |
+| **M**iddle | Professionals, executives | Educated group |
+| **L**ow | Labourers, manual workers | Low income, less educated |
+
+### **Class Divisions (3 Types):**
+**"REH"** (Rich-Educated-Haves vs Poor-Illiterate-Have-nots)
+- **R** - Rich vs Poor
+- **E** - Educated vs Illiterate
+- **H** - Haves vs Have-nots
+
+### **Education Role:**
+**"Social Leveller"** (enables upward mobility)
+
+### **Steps to Reduce Class Inequality (5 Steps):**
+**"VLEHT"** (V-LEHT)
+- **V** - Vocational training
+- **L** - Loans for poor entrepreneurs
+- **E** - Entrepreneurship encouragement
+- **H** - Higher taxes on rich
+- **T** - (Labour reforms) - Tax reforms & labour laws
+
+### **Regional Inequality Factors (5 Areas):**
+**"ETEPE"** (ET-EPE)
+- **E** - Electricity generation
+- **T** - Transport facilities
+- **E** - Education services
+- **P** - Per capita income
+- **E** - Employment opportunities
+
+### **States Examples:**
+**Backward**: **"BOU"** (Bihar-Odisha-UP/Uttar Pradesh)
+**Advanced**: **"TKM"** (Tamil Nadu-Kerala-Maharashtra)
+
+### **Quick Recall:**
+- **4 Types**: Caste, Gender, Class, Region
+- Caste = **Hereditary + Hierarchical**
+- Gender = Discrimination in **Family-School-Work-Public-Politics**
+- Class = Based on **Income-Skills-Education-Profession**
+- Region = **Urban-Rural divide + State-State differences**
+- Solution: **Education + Empowerment + Inclusive Development**
+
+---

@@ -150,4 +150,81 @@ In conclusion, education is the most effective means to eliminate social inequal
 
 ---
 
-If you want, I can also write this answer in a **short 5-mark version** or create a **diagram/flowchart for quick revision**.
+## 📝 Key Points & Mnemonics for Exam Preparation
+
+### **Education as:**
+**"The Great Equalizer"**
+
+### **Mnemonic for 20 Measures (Grouped):**
+
+**Group 1: FREE (5 measures - 1-5)**
+**"UFRCA"** (Universal-Free-Reservation-Common-Accessible)
+1. **U** - Universal free education
+2. **F** - Free education for marginalized
+3. **R** - Reservation in higher/professional education
+4. **C** - Common Public School System
+5. **A** - Accessible schools for all
+
+**Group 2: SUPPORT (5 measures - 6-10)**
+**"NFLRW"** (NFL-RW)
+6. **N** - Nutritional & hostel support
+7. **F** - Free learning materials
+8. **L** - (Regional imbalances) - Removing regional gaps
+9. **R** - Rural education strengthening
+10. **W** - Women's education promotion
+
+**Group 3: QUALITY (5 measures - 11-15)**
+**"WSLVR"** (WS-LVR)
+11. **W** - Wastage & dropout elimination
+12. **S** - Scholarships & educational loans
+13. **L** - (Vocational) - Vocationalization of secondary ed
+14. **V** - (Already in Vocational)
+15. **R** - Reservation in elite schools (25%)
+
+**Group 4: INCLUSION (5 measures - 16-20)**
+**"NMMEG"** (NM-MEG)
+16. **N** - Non-discriminatory admission
+17. **M** - Merit-based teacher appointment
+18. **M** - Mixed residential schools
+19. **E** - Expansion of distance/open education
+20. **G** - Gender equality education in curriculum
+
+### **Distance Norms:**
+- Primary: Within **2 km**
+- High School: Within **5 km**
+
+### **Key Reservations:**
+- Higher/Professional education: **Adequate seats** for SC/ST/OBC
+- Elite schools: **25% seats** for neighborhood students
+- Colleges for girls: **30% seats** in mixed institutions
+
+### **Backward States Needing Support:**
+**"OBJ"** (Odisha-Bihar-Jharkhand)
+
+### **Women's Education Promotion:**
+**"MGCLA-T"** (MG-CLA-T)
+- **M** - More girls' schools & colleges
+- **G** - (30%) - Girls' reservation
+- **C** - Cycles & laptops (free)
+- **L** - (Free) Learning materials
+- **A** - Appointment of women teachers
+- **T** - (Incentives) - Marriage assistance
+
+### **Distance Education Institutions:**
+**"IGNOU + NIOS + State Open Universities"**
+
+### **Quick Summary - 5 Themes:**
+1. **Free & Universal Access** (Measures 1-5)
+2. **Material Support** (Measures 6-10)
+3. **Quality & Skills** (Measures 11-15)
+4. **Non-Discrimination** (Measures 16-20)
+5. **Special Focus**: Women, SC/ST, Rural, Regional
+
+### **Quick Recall:**
+- Mid-day meals: Up to **Class X**
+- Work experience: **All levels**
+- Vocational education: **Secondary stage**
+- Common School System: **Equal quality for all**
+- Education purpose: **Equality + Empowerment + Justice**
+
+---

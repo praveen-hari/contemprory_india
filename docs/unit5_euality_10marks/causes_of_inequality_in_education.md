@@ -156,4 +156,65 @@ Thus, inequality in education is mainly caused by social discrimination and marg
 
 ---
 
-If you want, I can also make this into a **short 5-mark answer** or provide **important points for revision** 📘✨
+## 📝 Key Points & Mnemonics for Exam Preparation
+
+### **Mnemonic for 2 Main Causes:**
+**"SM"** (Social Marginalization)
+1. **S** - Social Discrimination
+2. **M** - Marginalization of social groups
+
+### **Mnemonic for Social Division Bases:**
+**"CCRR-G"** (See-Car-G)
+- **C** - Caste
+- **C** - Class
+- **R** - Religion
+- **R** - Race
+- **G** - Gender
+
+### **Mnemonic for 'We vs They' Categories:**
+**"UPPD vs LDNL"**
+
+**'We' (Privileged):**
+- **U** - Upper class
+- **P** - Progressive
+- **P** - Powerful/Privileged
+- **D** - Dominant
+
+**'They' (Marginalized):**
+- **L** - Lower class
+- **D** - Deprived
+- **N** - Neglected
+- **L** - Less preference
+
+### **Two Status Types:**
+**"AA"** (Ascribed vs Acquired)
+- **Ascribed**: By birth (traditional)
+- **Acquired**: By achievement (constitutional vision)
+
+### **Mnemonic for Reasons Girls Don't Attend College:**
+**"PFFLES"** (Puff-Less)
+- **P** - Preference for sons
+- **F** - Fear of harassment
+- **F** - Far location of schools
+- **L** - Limited suitable subjects
+- **E** - Early marriage
+- **S** - Safety concerns
+
+### **Mnemonic for Marginalized Children's Problems:**
+**"LION PUMA"**
+- **L** - Lack of learning facilities
+- **I** - Illiterate parents
+- **O** - Oppressed families
+- **N** - Nutritional deficiency (malnutrition)
+- **P** - Poverty
+- **U** - Unemployment
+- **M** - Medical care lack
+- **A** - Area (remote/unhygienic)
+
+### **Quick Recall:**
+- Peter Leonard: **"Outside mainstream of productive activity"**
+- Marginalized children trapped in **Vicious Circle** (inter-generational)
+- Different castes = Different schools (Govt/Special/Private)
+- Result: **Unequal quality** of education
+
+---

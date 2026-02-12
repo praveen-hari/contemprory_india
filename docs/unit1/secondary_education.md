@@ -118,3 +118,79 @@ The Secondary Education Commission emphasized that education at this stage shoul
 In conclusion, secondary education plays a pivotal role in shaping adolescents into responsible, skilled, and culturally rooted citizens. It connects primary education with higher education and employment opportunities. By focusing on academic knowledge, vocational skills, citizenship training, and personality development, secondary education contributes significantly to individual growth and national progress.
 
 ---
+
+## 📝 Key Points & Mnemonics for Exam Preparation
+
+### **Mnemonic for Secondary Education Structure:**
+**"6-10"** (Standards VI to X = 5 years)
+- Lower Secondary: **VI, VII, VIII**
+- High School: **IX, X**
+
+### **Mnemonic for After 10th Options:**
+**"HID"** (Higher-ITI-Diploma)
+- **H** - Higher Secondary (2 years: XI-XII)
+- **I** - ITI (Industrial Trade Certificate - 2 years)
+- **D** - Diploma in Polytechnics (3 years)
+
+### **Mnemonic for 6 Importance Points:**
+**"CAPTION"**
+- **C** - Continuation of Primary Education
+- **A** - Adolescence Development (13-16 years)
+- **P** - Preparation of Teachers
+- **T** - Terminal/Career preparation
+- **I** - Intermediary/Link between Primary & Higher Ed
+- **O** - (Economic) - National Development
+- **N** - (Not listed separately but implied - Nation building)
+
+Or simpler: **"CAPTLN"**
+- **C** - Continuation
+- **A** - Adolescence
+- **P** - Preparation of Teachers
+- **T** - Terminal behaviour
+- **L** - Link (Primary-Higher)
+- **N** - National Development
+
+### **Mnemonic for 3 R's at Primary Level:**
+**"RWA"**
+- **R** - Reading
+- **W** - Writing
+- **A** - Arithmetic
+
+### **Mnemonic for Core Subjects (8 Subjects):**
+**"METT-SSPA"** (Met-Spa)
+- **M** - Mother tongue
+- **E** - English
+- **T** - Third language
+- **T** - (Another T) - Mathematics
+- **S** - Science (General)
+- **S** - Social Science
+- **P** - Physical Education
+- **A** - Arts & Work Experience
+
+### **Mnemonic for Secondary Education Commission Goals:**
+**"CDFI-BA"** (CD-Finance-BA)
+- **C** - Creative citizens
+- **D** - Disciplined citizens
+- **F** - Functionally efficient
+- **I** - Industrial & economic development
+- **B** - Balanced personalities
+- **A** - Appreciation for arts & culture
+
+### **Key Objectives Memory:**
+**"3L-CVC-NGT"** (Remember key themes)
+- **3L** - Three Languages (Mother tongue, English, Third)
+- **C** - Citizenship training
+- **V** - Vocational skills
+- **C** - Continue to higher education
+- **N** - Navodaya Schools (one per district)
+- **G** - Girls' schools (separate where needed)
+- **T** - Transport & textbooks (subsidised)
+
+### **Quick Recall:**
+- Secondary = **Bridge** between Primary & Higher/Employment
+- Age group: **Adolescence** (13-16 years)
+- Foundation for **Teacher Education**
+- Exam at end of **10th Standard** (State-level)
+- Focus on **Personality Development** + **Career Preparation**
+
+---

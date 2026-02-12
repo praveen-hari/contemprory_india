@@ -40,4 +40,16 @@ Use the navigation menu above to explore different units. Each section contains 
 
 ---
 
+## 📝 Exam Preparation Features
+
+Each document now includes a **"Key Points & Mnemonics"** section at the end to help you:
+- Remember important concepts using memory techniques
+- Quickly revise key facts and figures
+- Prepare effectively for exams with structured mnemonics
+- Recall complex information using simple acronyms
+
+Look for the 📝 icon at the end of each topic for these helpful study aids!
+
+---
+
 *Last Updated: February 2026*

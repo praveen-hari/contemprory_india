@@ -122,3 +122,48 @@ Fundamental Rights were designed to eliminate inequalities of pre-independence I
 In conclusion, Fundamental Rights are the backbone of Indian democracy. They ensure equality, liberty, justice, and dignity for every citizen. By protecting individuals from discrimination and exploitation, these rights help in building a just, democratic, and inclusive society.
 
 ---
+
+## 📝 Key Points & Mnemonics for Exam Preparation
+
+### **Mnemonic for Types of Fundamental Rights:**
+**"EEFCCER"** (Remember as "EEF-C-CER")
+1. **E** - Equality (Articles 14-18)
+2. **E** - Exploitation (Against, Articles 23-24)
+3. **F** - Freedom (Articles 19-22)
+4. **C** - Cultural & Educational Rights (Articles 29-30)
+5. **C** - Constitutional Remedies (Article 32)
+6. **E** - Education (Article 21A)
+7. **R** - Religion (Freedom of, Articles 25-28)
+
+### **Mnemonic for Right to Equality (5 Aspects):**
+**"EDEET"**
+- **E** - Equality before law (Article 14)
+- **D** - Discrimination prohibition (Article 15)
+- **E** - Employment equality (Article 16)
+- **E** - End untouchability (Article 17)
+- **T** - Titles abolished (Article 18)
+
+### **Mnemonic for Freedoms (Article 19):**
+**"SAM RAP"**
+- **S** - Speech and expression
+- **A** - Assembly
+- **M** - Movement
+- **R** - Residence
+- **A** - Association
+- **P** - Profession
+
+### **Mnemonic for Five Writs:**
+**"HMPQC"** (Remember as "Help My Poor Quality Cases")
+- **H** - Habeas Corpus
+- **M** - Mandamus
+- **P** - Prohibition
+- **Q** - Quo Warranto
+- **C** - Certiorari
+
+### **Quick Recall:**
+- Part III covers Articles **12-35**
+- Article 32 is the **"Heart and Soul"** of Constitution (Dr. B.R. Ambedkar)
+- 86th Amendment (2002) added **Right to Education (Article 21A)**
+- Fundamental Rights are **Justiciable** (enforceable in courts)
+
+---

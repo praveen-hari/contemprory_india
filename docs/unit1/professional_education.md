@@ -132,3 +132,56 @@ Thus, doctoral professional education strengthens higher-level expertise and nat
 In conclusion, professional education is an important stream of higher education aimed at preparing students for specific careers and professions. Unlike Arts and Science education, which provides general knowledge, professional education focuses on specialized training, practical skills, and ethical standards. Through its three stages—graduate, postgraduate, and doctoral levels—it produces competent professionals who contribute to national productivity, modernization, and social progress. Therefore, professional education occupies a central place in contemporary educational development.
 
 ---
+
+## 📝 Key Points & Mnemonics for Exam Preparation
+
+### **Mnemonic for Two Streams of Higher Education:**
+**"AS-Pro"** (Arts-Science vs Professional)
+- **AS** - Arts & Science (General/Broad knowledge)
+- **Pro** - Professional (Specific/Vocational)
+
+### **Mnemonic for Professional Education Fields:**
+**"EMALT-A"** (E-MALT-A)
+- **E** - Engineering
+- **M** - Medicine
+- **A** - Agriculture
+- **L** - Law
+- **T** - Teacher Education
+- **A** - Accountancy & Auditing
+
+### **Mnemonic for 3 Stages of Professional Education:**
+**"GPD"** (Graduate-Postgraduate-Doctoral)
+1. **G** - Graduate (After 12th - Basic professional training)
+2. **P** - Postgraduate (After graduation - Specialization)
+3. **D** - Doctoral (After PG - Research & Expertise)
+
+### **Examples for Each Stage:**
+**Graduate Level**: **"BELL"**
+- **B**.E./B.Tech
+- **B**.Ed
+- **LL**B
+- (MBBS)
+
+**Postgraduate Level**: **"MELL"**
+- **M**.E./M.Tech
+- **M**.Ed
+- **LL**M
+- (M.D./M.S./MBA)
+
+**Doctoral Level**: **"Ph.D"** (in all fields)
+
+### **Comparison Table Memory:**
+| Feature | Arts & Science | Professional |
+|---------|----------------|--------------|
+| Purpose | **Broaden** knowledge | **Specific** vocation |
+| Focus | **General** understanding | **Specialized** skills |
+| Outcome | **Intellectual** development | **Professional** competence |
+
+### **Quick Recall:**
+- Professional Education = **Specialized + Practical + Ethical**
+- Aims at: **Mastery in particular field**
+- Contributes to: **National Productivity**
+- Each profession has: **Professional Ethics** (e.g., doctors serve humanity)
+- Higher stage requires: **Previous stage + Experience**
+
+---

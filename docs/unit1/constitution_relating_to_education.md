@@ -109,3 +109,57 @@ This provision helps minorities preserve their language, culture, and identity t
 In conclusion, the Indian Constitution provides comprehensive provisions relating to education through Directive Principles and Fundamental Rights. Articles 45 and 46 promote free education and uplift weaker sections, while Articles 28, 29, and 30 safeguard minority educational rights and ensure secularism and equality. These constitutional provisions form the backbone of India’s educational system and support the goals of democracy, social justice, and national integration.
 
 ---
+## 📝 Key Points & Mnemonics for Exam Preparation
+
+### **Mnemonic for Key Educational Articles:**
+**"45-46-28-29-30"** or **"Double 4 + Triple 2+3"**
+
+**Directive Principles (not enforceable):**
+- **Article 45**: Free & Compulsory Education (up to 14 years)
+- **Article 46**: Promotion of Educational interests of Weaker Sections (SC/ST)
+
+**Fundamental Rights (enforceable):**
+- **Article 28**: Freedom regarding Religious Instruction
+- **Article 29(2)**: Right of Admission (No discrimination)
+- **Article 30**: Minority Rights to Establish Institutions
+
+### **Mnemonic for Article 45 Timeline:**
+**"45-86-21A"**
+- **Article 45** (1950): Directive Principle - 10 years to achieve
+- **86th Amendment** (2002): Made it a Fundamental Right
+- **Article 21A**: Free & Compulsory Education (6-14 years)
+
+### **Mnemonic for Article 46 Focus:**
+**"SCST-PEP"** (SC/ST Protection, Education, Promotion)
+- **Special Care** for weaker sections
+- **SC/ST** particularly mentioned
+- **Promotion** of educational interests
+- **Economic** interests
+- **Protection** from social injustice and exploitation
+
+### **Mnemonic for Article 28 (3 Clauses):**
+**"State-Trust-Consent"**
+- **Clause 1**: No religion in **State-funded** institutions
+- **Clause 2**: Allowed in **Trust/Endowment** institutions
+- **Clause 3**: No compulsion without **Consent**
+
+### **Mnemonic for Article 29(2) - No Discrimination Grounds:**
+**"RRCL"** (Real Religion, Caste, Language)
+- **R** - Religion
+- **R** - Race
+- **C** - Caste
+- **L** - Language
+
+### **Mnemonic for Article 30 (Minority Rights):**
+**"EA-EA"** (Establish-Administer-Equal Aid)
+- **E** - Establish educational institutions
+- **A** - Administer institutions of their choice
+- **EA** - Equal Aid (no discrimination in grants)
+
+### **Quick Recall:**
+- **Article 12 defines "State"**: Govt + Parliament + State Legislatures + Local Authorities
+- Article 45 originally **not enforceable** → Now enforceable as **Article 21A**
+- Article 28 ensures **Secularism** in education
+- Article 30 protects **Religious & Linguistic minorities**
+
+---

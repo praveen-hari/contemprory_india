@@ -150,3 +150,54 @@ continued separately.
 Sarva Shiksha Abhiyan is a landmark programme that significantly improved access, equity, and quality in elementary education in India. By focusing on infrastructure, teacher development, inclusion, and shared funding responsibility, SSA has contributed greatly to achieving the goal of **Education for All**. It laid the strong foundation for a literate and empowered India.
 
 ---
+
+## 📝 Key Points & Mnemonics for Exam Preparation
+
+### **Basic Facts - "SSA in Numbers":**
+**"20-11-86"**
+- **20.5 crore** children (target population)
+- **11 lakh** villages covered
+- **86th Amendment** - Constitutional backing
+
+### **Mnemonic for Launch Period:**
+**"SSA = 9th Plan"** (Ninth Five Year Plan: 1997-2002)
+
+### **Mnemonic for Time-bound Objectives:**
+**"3-7-10"** (Remember as years 2003, 2007, 2010)
+- **2003**: All children admitted
+- **2007**: Complete 5 years primary education
+- **2010**: Complete 8 years schooling (Universal retention)
+
+### **Mnemonic for Operational Strategies (4 Areas):**
+**"IHQS"** (I Have Quality Schools)
+- **I** - Infrastructure Development
+- **H** - Human Resource Development
+- **Q** - Quality Improvement
+- **S** - Special Focus Areas
+
+### **Mnemonic for Funding Pattern Evolution:**
+**"85-75-50"** (Centre's share decreasing)
+- **IX Plan**: 85% Centre, 15% State
+- **X Plan**: 75% Centre, 25% State
+- **After X Plan**: 50% Centre, 50% State
+
+### **Mnemonic for Fund Release Conditions:**
+**"50-50 Rule"**
+- State must transfer its **50%** share
+- At least **50%** of previous funds must be utilized
+
+### **Special Focus (GEMS):**
+**"GEMS"**
+- **G** - Girls' education
+- **E** - Education of children with special needs
+- **M** - Marginalized communities
+- **S** - SC/ST children
+
+### **Quick Recall:**
+- SSA = **"Education for All" / "Each One Teach One"**
+- Implemented by **IAS officer** in Tamil Nadu
+- World's **largest** education programme
+- Decentralized to **VEC/SMC/Gram Panchayats**
+- **Mid-Day Meal** continued separately (not merged)
+
+---

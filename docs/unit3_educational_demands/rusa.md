@@ -151,3 +151,55 @@ RUSA is expected to bring:
 Rashtriya Uchchatar Shiksha Abhiyan (RUSA) is a landmark reform programme for strengthening higher education in India. Along with SSA and RMSA, it creates a complete educational pathway from elementary to higher education. By improving funding, autonomy, infrastructure, and quality, RUSA plays a key role in building a strong and modern higher education system for national development.
 
 ---
+
+## 📝 Key Points & Mnemonics for Exam Preparation
+
+### **Mnemonic for Educational Progression:**
+**"SSA-RMSA-RUSA"** (1997-2009-2013)
+- **SSA** (1997) - Elementary Education
+- **RMSA** (2009) - Secondary Education  
+- **RUSA** (2013) - Higher Education
+
+### **RUSA Launch Year:**
+**2013** by **MHRD** (Ministry of Human Resource Development)
+
+### **Mnemonic for 8 Key Functions:**
+**"UNCM-SFPI"** (UN-Come-SF-PI)
+1. **U** - Upgrading universities to international standards
+2. **N** - New universities establishment
+3. **C** - Cluster college system
+4. **M** - Model colleges development
+5. **S** - State Councils of Higher Education
+6. **F** - Funding mechanism (new - through State Councils)
+7. **P** - Private institutions inclusion
+8. **I** - (Implicit in funding ratio)
+
+### **Funding Ratio:**
+**"90-10 Rule"** (Centre-State)
+- Central Government: **90%**
+- State Government: **10%**
+
+### **GER Targets (Gross Enrolment Rate):**
+**"18-25-32"** (2013-12th Plan-13th Plan)
+- **2013**: 18%
+- **End of 12th Plan**: 25.2%
+- **End of 13th Plan**: 32%
+
+### **Total Budget:**
+**₹99,000 crores**
+
+### **Key Distinguishing Features:**
+- Funding through **State Councils** (not directly through UGC)
+- **Private institutions** can also receive funds
+- Creates **cluster colleges** system
+- Develops **model colleges**
+
+### **Quick Recall:**
+- RUSA = **Rashtriya Uchchatar Shiksha Abhiyan**
+- "Uchchatar" = **Higher** (in Hindi)
+- Purpose: **Reform + Develop** higher education
+- Target: State universities and colleges
+- Benefits: **Quality + Access + Governance**
+- Revolutionary: Funding through **State autonomy**
+
+---

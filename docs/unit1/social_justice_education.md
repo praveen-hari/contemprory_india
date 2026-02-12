@@ -118,3 +118,44 @@ Mandatory reservation of 25% seats in private schools for economically weaker se
 In conclusion, social justice aims at fair and equitable distribution of opportunities and privileges in society. Education plays a central role in achieving this goal by empowering individuals, reducing inequalities, and promoting social mobility. Through inclusive policies, reservations, financial support, and equal access, education can become a strong instrument for establishing social justice and building an equitable and democratic society.
 
 ---
+
+## 📝 Key Points & Mnemonics for Exam Preparation
+
+### **Mnemonic for Social Justice Focus Areas:**
+**"REGRESS"**
+- **R** - Race
+- **E** - Education
+- **G** - Gender
+- **R** - Religion
+- **E** - Environment
+- **S** - Social status
+- **S** - Status (Economic)
+
+### **Mnemonic for Education's Impact (Benefits):**
+**"SLICED"**
+- **S** - Social and economic status improvement
+- **L** - Living conditions enhancement
+- **I** - Income and employment opportunities
+- **C** - Confidence and dignity building
+- **E** - Equal interaction with all sections
+- **D** - Dignity and respect in society
+
+### **Mnemonic for Establishing Social Justice (9 Measures):**
+**"FRESH CROPS"**
+- **F** - Free and compulsory quality education
+- **R** - Reservation for marginalized groups
+- **E** - Educational materials (free)
+- **S** - Scholarships and financial aid
+- **H** - Hostel facilities
+- **C** - Common school system
+- **R** - Rural school expansion
+- **O** - Opportunity (25% reservation in private schools)
+- **P** - Promotion of women's education
+- **S** - Support for SC/ST students
+
+### **Quick Recall:**
+- Social Justice = **Fair Distribution** of opportunities
+- Education transforms: **Ascribed Status → Achieved Status**
+- Two types of mobility: **Vertical** (upward) & **Horizontal** (across groups)
+
+---

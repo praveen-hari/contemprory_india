@@ -179,3 +179,53 @@ The Four Pillars of Education suggested by the Delors Commission provide a compl
 * **Be** – develop fully as human beings
 
 Thus, education should aim at creating responsible, skilled, peaceful, and holistic individuals for a better society.
+
+---
+
+## 📝 Key Points & Mnemonics for Exam Preparation
+
+### **Mnemonic for Four Pillars:**
+**"KDLB"** or **"Knowledge Does Lead to Being"**
+1. **K** - Know (Learning to)
+2. **D** - Do (Learning to)
+3. **L** - Live Together (Learning to)
+4. **B** - Be (Learning to)
+
+### **Mnemonic for Learning to Know (3 Skills):**
+**"CMT"** (Certificate of Master Teacher)
+- **C** - Concentration skills
+- **M** - Memory skills
+- **T** - Thinking skills
+
+### **Mnemonic for Learning to Do (Key Skills):**
+**"CAPLETS"**
+- **C** - Communication
+- **A** - Adaptability
+- **P** - Problem-solving
+- **L** - Leadership
+- **E** - Employment readiness
+- **T** - Teamwork
+- **S** - Social responsibility
+
+### **Mnemonic for Learning to Live Together (Core Values):**
+**"RUCCA"** (Remember as "RUKKA" - Hindi for stop/wait - wait to understand others)
+- **R** - Respect for others
+- **U** - Unity across diversity
+- **C** - Cooperation
+- **C** - Concern for others
+- **A** - Acceptance of diversity
+
+### **Mnemonic for Learning to Be (Development Areas):**
+**"BMS"** (Body-Mind-Spirit)
+- **B** - Body (Physical)
+- **M** - Mind (Intellectual)
+- **S** - Spirit (Emotional & Moral)
+
+### **Quick Recall:**
+- **Report**: "Learning: The Treasure Within" (1996)
+- **Commission**: UNESCO - Delors Commission
+- **Approach 1**: Discovering diversity (Early childhood)
+- **Approach 2**: Community projects (Age 10-12+)
+- Focus: **Holistic + Lifelong learning**
+
+---

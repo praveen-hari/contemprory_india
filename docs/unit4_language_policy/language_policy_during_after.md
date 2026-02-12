@@ -138,3 +138,72 @@ The Kothari Commission suggested a Modified Three Language Formula with flexibil
 Thus, language policy in India evolved from British promotion of English to post-independence efforts to balance mother tongue, Hindi, and English. Though challenges remain, India’s language policy reflects unity in diversity and aims to promote national integration through education.
 
 ---
+## 📝 Key Points & Mnemonics for Exam Preparation
+
+### **Mnemonic for Pre-Independent Milestones:**
+**"1835-1854-1882"** or **"MWH"** (Macaulay-Wood-Hunter)
+1. **M** - Macaulay's Minute (1835)
+2. **W** - Wood's Despatch (1854)
+3. **H** - Hunter Commission (1882)
+
+### **Macaulay 1835 - Key Points:**
+**"DFT"** (Downward Filtration Theory)
+- Created **elite class** (English in taste, Indian in blood)
+- English as medium for **elite only**
+- Indians as **interpreters** between British & masses
+
+### **Wood's Despatch 1854:**
+**"PV-HE"** (Primary Vernacular, Higher English)
+- **Primary**: Vernacular languages
+- **Higher**: English medium
+- Called: **"Magna Carta of Indian Education"**
+
+### **Hunter Commission 1882:**
+**"Mother Tongue for Primary"**
+
+### **Post-Independence Language Issues (4 Issues):**
+**"MLLS"** (Medium-Link-Load-Sanskrit)
+1. **M** - Medium of instruction
+2. **L** - Link language (Hindi or English)
+3. **L** - Language load on students
+4. **S** - Sanskrit & classical languages place
+
+### **Three Language Formula Memory:**
+**"Non-Hindi: MHE | Hindi: HEM"**
+
+**Non-Hindi Areas:**
+- **M** - Mother tongue
+- **H** - Hindi
+- **E** - English
+
+**Hindi Areas:**
+- **H** - Hindi
+- **E** - English
+- **M** - Modern Indian language (another)
+
+### **Key Year - 1956:**
+**Three Language Formula introduced**
+
+### **1965 Crisis:**
+**"Anti-Hindi Agitations"** (especially Tamil Nadu)
+- Hindi to be **sole official** language
+- Nehru's assurance: **English to continue**
+
+### **Kothari Commission (1964-66):**
+**"Modified Three Language Formula"**
+- **No forcing** of 4 languages
+- **Flexibility** in implementation
+
+### **Quick Recall Timeline:**
+- **Pre-1835**: Regional languages in traditional schools
+- **1835**: Macaulay - English for elite (DFT)
+- **1854**: Wood - Primary vernacular, Higher English
+- **1882**: Hunter - Mother tongue primary
+- **1956**: Three Language Formula
+- **1965**: Language crisis & agitations
+- **1964-66**: Kothari - Modified formula
+
+### **Evolution Summary:**
+**"English Dominance → Balanced Multilingualism"**
+
+---

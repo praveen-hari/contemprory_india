@@ -114,3 +114,77 @@ Article 351 directs the Union Government to promote and develop Hindi so that it
 
 Thus, the Indian Constitution provides a balanced language policy. It declares Hindi as the official language while allowing English to continue. It protects State languages and linguistic minorities and ensures mother tongue education at the primary level. Through Articles 343 to 351, the Constitution promotes unity in diversity and safeguards the linguistic rights of all citizens.
 
+---
+
+## 📝 Key Points & Mnemonics for Exam Preparation
+
+### **Article Range:**
+**343 to 351** (9 Articles total)
+
+### **Mnemonic for Key Articles:**
+**"343-344-345 | 346-347-348 | 350-350A-350B-351"**
+
+Group them as: **Union-State-Courts-Rights**
+
+### **Detailed Mnemonic:**
+**"OUSCC-RMSO"** (Official-Union-State-Courts-Communication-Rights-Minorities-Special-Officer)
+
+1. **343** - **O**fficial language of Union (Hindi + Devanagari)
+2. **344** - Commission & Parliamentary Committee
+3. **345** - Official language of **S**tate
+4. **346** - **C**ommunication between States
+5. **347** - Recognition for substantial population
+6. **348** - **C**ourts language (Supreme Court & High Courts)
+7. **350** - **R**ight to submit grievances
+8. **350-A** - **M**other tongue at primary stage
+9. **350-B** - **S**pecial **O**fficer for linguistic minorities
+10. **351** - Development of Hindi
+
+### **Article 343 Memory:**
+**"Hindi + Devanagari + 15 years English"**
+- Official language: **Hindi in Devanagari script**
+- English allowed: **15 years** (till 1965)
+- Now: English = **Associate Official Language**
+
+### **Article 344 Memory:**
+**"5-10 Commission + 30 Committee"**
+- Commission appointed: After **5 years**, then **10 years**
+- Parliamentary Committee: **30 members** (20 LS + 10 RS)
+
+### **Article 348 Memory:**
+**"Courts = English"**
+- Proceedings: **English**
+- Acts/Bills: **English**
+- Judgments: Must be in **English** (even if proceedings in Hindi/State language)
+
+### **Article 350-A:**
+**"Mother Tongue = Primary Stage"**
+(Facilities for instruction in mother tongue for linguistic minorities)
+
+### **Article 351:**
+**"Hindi Development from Sanskrit + Indian Languages"**
+
+### **Quick Summary Table:**
+
+| Article | Focus |
+|---------|-------|
+| **343** | Union official language (Hindi) |
+| **344** | Commission (5/10 yrs) + Committee (30) |
+| **345** | State official language |
+| **346** | Inter-state communication |
+| **347** | Minority language recognition |
+| **348** | Courts (English) |
+| **350** | Grievance in any language |
+| **350-A** | Mother tongue (primary) |
+| **350-B** | Special Officer |
+| **351** | Hindi development |
+
+### **Quick Recall:**
+- Articles cover: **Union, States, Courts, Minorities**
+- Balance: **Hindi** (official) + **English** (associate)
+- Protection: **Linguistic minorities**
+- Education: **Mother tongue** at primary level
+- Unity in **Diversity** maintained
+
+---
+

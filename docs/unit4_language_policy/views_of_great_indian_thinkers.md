@@ -120,3 +120,85 @@ He emphasized combining oriental knowledge (Vedanta, philosophy) with Western sc
 # **Conclusion**
 
 Thus, all three thinkers supported **mother tongue as the best medium at the primary level**. Tagore focused on creativity and international outlook, Gandhiji emphasized mother tongue and craft-based education, while Vivekananda supported a balanced approach with vocational training and the learning of English for higher education. Their ideas remain highly relevant for developing an effective language policy in India.
+
+---
+
+## 📝 Key Points & Mnemonics for Exam Preparation
+
+### **Mnemonic for 3 Great Thinkers:**
+**"TGV"** (Tagore-Gandhi-Vivekananda)
+
+### **Common Agreement:**
+**"All 3 = Mother Tongue at Primary"**
+
+### **Distinguishing Features - Quick Table:**
+
+| Thinker | Unique Focus | Approach |
+|---------|--------------|----------|
+| **Tagore** | Creativity + International | Freedom, Arts, Shantiniketan |
+| **Gandhi** | Craft-based + Self-reliant | Basic Education (Nai Talim) |
+| **Vivekananda** | Vocational + Technical | Balance East-West, English OK |
+
+### **Tagore's Views Memory:**
+**"CFIN"** (Creativity-Freedom-Individual-International)
+- **C** - Creativity & freedom
+- **F** - Freedom environment
+- **I** - Individual talents
+- **N** - iNternational outlook
+
+**Subjects**: **"LGMFA"** (Language-Geography-Music-Fine Arts-Activities)
+
+**Institutions**: **"Shantiniketan + Visva Bharati"**
+
+**International**: **China Bhavan + Hindi Bhavan**
+
+### **Gandhi's Views Memory:**
+**"CRAFTS"** (Basic Education focus)
+- **C** - Craft-centered education
+- **R** - Regional language (Mother tongue)
+- **A** - All subjects through craft
+- **F** - Free & compulsory (7-14 years)
+- **T** - Teaching by doing
+- **S** - Self-supporting
+
+**Basic Education** = **Nai Talim**
+
+**Key Features (6 Points):**
+**"FESCMS"** (Festival-SCMS)
+1. **F** - Free & compulsory (7-14)
+2. **E** - Education through craft
+3. **S** - Self-supporting
+4. **C** - Cooperative community life
+5. **M** - Moral & religious training
+6. **S** - (Mother tongue as) Medium
+
+### **Vivekananda's Views Memory:**
+**"BEST"** (Balanced-English-Strength-Technical)
+- **B** - Balanced approach (East + West)
+- **E** - English favoured (for modern knowledge)
+- **S** - Strength & personality development
+- **T** - Technical & vocational training
+
+**Subjects**: **"RSHE-HGE"** (Regional-Sanskrit-Hindi-English + History-Geography-Economics)
+
+**Campus Facilities**: **"WAI"** (Workshops-Agricultural farms-Industrial units)
+
+**Philosophy**: **"Oriental Wisdom + Western Science"**
+
+### **Quick Comparison:**
+
+| Feature | Tagore | Gandhi | Vivekananda |
+|---------|---------|---------|-------------|
+| **English** | OK for higher | NO at school | YES, necessary |
+| **Focus** | Arts & Creativity | Craft & Self-reliance | Vocational & Technical |
+| **Philosophy** | Freedom | Swadeshi | Vedanta + Science |
+| **Activities** | Dance, Drama, Arts | Craft production | Workshop, Farm |
+
+### **Quick Recall:**
+- **All 3**: Mother tongue primary
+- **Tagore**: Shantiniketan, International languages
+- **Gandhi**: Basic Education, Craft-centered, Anti-English
+- **Vivekananda**: Pro-English, Vocational, East+West balance
+- **Common**: Practical education, Indian culture preservation
+
+---

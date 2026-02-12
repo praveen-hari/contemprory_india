@@ -135,3 +135,57 @@ History forms the foundation upon which modern education is built.
 In conclusion, education is truly an inter-disciplinary discipline. It cannot be understood fully without the support of Philosophy, Psychology, Sociology, Anthropology, Politics, and History. These disciplines together enrich educational theory and practice, making education a dynamic process aimed at individual and social development.
 
 ---
+
+## 📝 Key Points & Mnemonics for Exam Preparation
+
+### **Mnemonic for 6 Related Disciplines:**
+**"PPASPH"** or **"2P-A-S-P-H"** (Two P's first: Philosophy-Psychology, then A-S-P-H)
+1. **P** - Philosophy
+2. **P** - Psychology
+3. **A** - Anthropology
+4. **S** - Sociology
+5. **P** - Politics
+6. **H** - History
+
+Or remember: **"Philosophers Psychologically Analyze Society's Political History"**
+
+### **Mnemonic for Key Relationships:**
+**"Philosophy = ENDS, Education = MEANS"**
+
+**"Philosophy = WHAT, Psychology = HOW"**
+
+### **Quick Relationship Summary:**
+
+| Discipline | Key Contribution to Education |
+|------------|-------------------------------|
+| **Philosophy** | Aims, Values, Ideals (ENDS) |
+| **Psychology** | Learning process, HOW to teach |
+| **Sociology** | Social needs, social change |
+| **Anthropology** | Culture, customs, traditions |
+| **Politics** | Policies, funding, governance |
+| **History** | Past lessons, present understanding |
+
+### **Mnemonic for Philosophy + Education:**
+**"Two Sides of Same Coin"** (Ross)
+
+### **Mnemonic for Anthropology's Role (3 Functions):**
+**"TCE"** (Transmission-Conservation-Enrichment)
+- **T** - Transmission of culture
+- **C** - Conservation of traditions
+- **E** - Enrichment/modification of culture
+
+### **Mnemonic for Political Systems & Education:**
+**"DSC"** (Democracy-Socialism-Communism)
+- **D** - Democracy → Free & Equal education
+- **S** - Socialism → Equality & Productivity
+- **C** - Communism → Patriotism & State control
+
+### **Quick Recall:**
+- **Kockelmans**: Integration of multiple disciplines for problem-solving
+- **Finney & Zeleny**: Educational sociology interprets problems using sociology
+- **Pestalozzi**: Education = Natural, harmonious, progressive development
+- Schools = **Miniature societies**
+- Education = **Social process**
+- Philosophy determines: **Aims, curriculum, methods, discipline**
+
+---

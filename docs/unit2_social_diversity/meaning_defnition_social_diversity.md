@@ -133,3 +133,39 @@ In conclusion, social diversity refers to the wide range of differences that exi
 
 ---
 
+## 📝 Key Points & Mnemonics for Exam Preparation
+
+### **Mnemonic for Bases of Social Diversity (3 Bases):**
+**"UID"**
+- **U** - Uniqueness of each individual
+- **I** - Inter-dependence of individuals and society
+- **D** - Dynamic nature of culture
+
+### **Mnemonic for Factors of Social Diversity:**
+**"RRLR GAPR"** (Read as "Rural Gapper")
+- **R** - Race
+- **R** - Religion
+- **L** - Language
+- **R** - Region
+- **G** - Gender
+- **A** - Age
+- **P** - Profession/Occupation
+- **R** - (Political) - Political ideology
+
+Or use: **"Real Religions Live Regularly, Growing And Practicing Righteously"**
+
+### **Alternate Mnemonic (9 Factors):**
+**"3R, 3G, 3P"**
+- **3R**: Race, Religion, Region
+- **3G**: Gender, Generation (Age), Government ideology (Political)
+- **3P**: Profession, Practices (Lifestyle), Philosophy (Religion again)
+
+### **Quick Recall:**
+- India = **"Unity in Diversity"**
+- Barker (2003): Diversity = **Variety + Representation**
+- Social Diversity includes: **Caste, Religion, Race, Language, Region, Class, Occupation, Culture**
+- Culture is **Dynamic** (not static)
+- Diversity is **Natural** outcome of social change
+
+---
+

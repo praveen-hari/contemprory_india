@@ -160,3 +160,100 @@ Women’s education leads to empowerment, better health, reduced child marriages
 In conclusion, education is the most effective tool for uplifting marginalized groups and ensuring social justice. Through special facilities, inclusive policies, scholarships, reservations, and culturally relevant education, marginalized communities such as Dalits, Tribals, and Women can be integrated into the mainstream while preserving their identity. Thus, education becomes a powerful means of equality, empowerment, and national progress.
 
 ---
+
+## 📝 Key Points & Mnemonics for Exam Preparation
+
+### **Mnemonic for 9 Marginalized Groups in India:**
+**"WDDST-OOTLB"** (Widest-OOT-LB)
+1. **W** - Women
+2. **D** - Differently abled
+3. **D** - Dalits (Scheduled Castes)
+4. **S** - Scheduled Tribes
+5. **T** - Transgender/Bisexual
+6. **O** - Old people
+7. **O** - Orphan children
+8. **T** - (Already in Transgender)
+9. **L** - Lepers
+10. **B** - Beggars
+
+Or simpler: **"Women, Dalits, Tribals, Differently-abled, Old, Orphans, Transgender, Lepers, Beggars"**
+
+### **Peter Leonard Definition:**
+**"Outside mainstream of productive activity"**
+
+### **Mnemonic for 6 Characteristics:**
+**"SDUGEP"** (SD-U-GEP)
+1. **S** - Social differentiation
+2. **D** - Different lifestyle
+3. **U** - Unity & collective identity
+4. **G** - Group norms
+5. **E** - Endogamous nature
+6. **P** - Poor living conditions
+
+### **Population Stats (Census 2011):**
+**Dalits (SC):**
+- Population: **20.14 crores**
+- Percentage: **16.6%**
+
+**Tribals (ST):**
+- Population: **10.43 crores**
+- Percentage: **8.6%**
+
+Memory: **"SC = 16.6%, ST = 8.6%"** (roughly double)
+
+### **Mnemonic for Dalit Education Facilities:**
+**"FHRTRAM"** (For-HTRAM)
+- **F** - Free education (all levels)
+- **H** - Hostels (free)
+- **R** - Rural schools (separate)
+- **T** - Textbooks, stationery (free)
+- **R** - Reservation (higher ed & jobs)
+- **A** - Awards & incentives
+- **M** - Midday meals (free)
+
+### **Tribal Dropout Rate:**
+**Above 70%** by Std. X
+
+### **Mnemonic for Tribal Education Problems (5 Main):**
+**"LISTS"** (LI-STS)
+- **L** - Language barriers (no written scripts)
+- **I** - Isolation preference (preserve culture)
+- **S** - Scattered settlements
+- **T** - Traditional lifestyle (not connected to schooling)
+- **S** - (Irrelevant curriculum) - Syllabus issues
+
+### **Mnemonic for Tribal Education Measures:**
+**"RRVSAW-T"** (RRV-SAW-T)
+- **R** - Residential schools
+- **R** - Roads & access
+- **V** - Vocational training
+- **S** - Scholarships & reservations
+- **A** - Awareness programmes
+- **W** - (Tribal) Welfare Boards
+- **T** - Training tribal youth as teachers
+
+### **Women's Literacy Stats:**
+- Male literacy: **81.3%**
+- Female literacy: **65.4%**
+- Gender gap: **15.9%**
+
+Memory: **"80-65-16"** (rough figures)
+
+### **Mnemonic for Women's Education Measures:**
+**"SGSOFT-D"** (SG-SOFT-D)
+- **S** - Schools & hostels (more girls')
+- **G** - Gifts (cycles, laptops, uniforms)
+- **S** - Safety measures (against harassment)
+- **O** - Open schooling & part-time
+- **F** - Free bus passes, textbooks
+- **T** - Teachers (more women)
+- **D** - Distance education (IGNOU support)
+
+### **Quick Recall:**
+- First used in: **France**
+- Dalit meaning: **"Suppressed/Oppressed"** (Marathi)
+- Tribal = **Adivasis** (indigenous)
+- High tribal concentration: **North-East states** (Mizoram, Nagaland, Meghalaya, Arunachal Pradesh)
+- Women's education impact: **Empowerment, better health, reduced child marriages**
+
+---

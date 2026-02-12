@@ -165,3 +165,78 @@ SSA is now the major programme ensuring universal elementary education.
 Universalisation of Primary Education is essential for achieving literacy, equality, and national progress. Despite many challenges like poverty, social barriers, and population growth, India has made significant efforts through expansion of schools, welfare schemes, and SSA. Achieving universal primary education remains a key step towards building an educated and empowered society.
 
 ---
+
+## 📝 Key Points & Mnemonics for Exam Preparation
+
+### **UPE Basics:**
+- **Age Group**: 6-14 years
+- **Duration**: 8 years (Class I to VIII)
+- **Constitutional**: Article 45
+
+### **Mnemonic for 4 Key Implications:**
+**"FEAR"** (Free-Enrollment-Attendance-Retention)
+1. **F** - Free education (8 years)
+2. **E** - (Compulsory) Enrollment (admit all at proper age)
+3. **A** - (Compulsory) Attendance (regular)
+4. **R** - (Universal) Retention (complete till Class VIII)
+
+### **Mnemonic for 10 Challenges:**
+**"EPIC GESIPA"** (Epic-Gee-Sip-A)
+1. **E** - Economic factors (poverty)
+2. **P** - Parents' ignorance
+3. **I** - Individual problems (mental/emotional)
+4. **C** - Communal & ethnic barriers
+5. **G** - Geographical barriers
+6. **E** - Educational reasons (wastage/stagnation)
+7. **S** - Social & religious practices
+8. **I** - (Already in Individual)
+9. **P** - Paucity of funds
+10. **A** - Administrative lapses
+11. **(P)** - Population explosion
+
+Or simpler: **"3E + 3G + 2P + 2S + A"**
+- **3E**: Economic, Educational, Ethnic
+- **3G**: Geographical, Gender (social), Government (admin)
+- **2P**: Parents' ignorance, Population explosion, Paucity of funds
+- **2S**: Social practices, Stagnation
+- **A**: Administrative lapses
+
+### **Mnemonic for 8 Efforts/Measures:**
+**"EEC-SWPF-N"** (Easy-SWPF-N)
+1. **E** - Expansion of schools
+2. **E** - Enrollment increase
+3. **C** - Curriculum & teaching methods (useful)
+4. **S** - Special support for weaker sections
+5. **W** - Welfare schemes for students
+6. **P** - Priority to girls' education
+7. **F** - Financial allocation (higher)
+8. **N** - National policy initiatives (1986)
+
+### **National Policy 1986 Programmes:**
+**"OSMOND"** (OS-MON-D)
+- **O** - Operation Blackboard
+- **S** - Sarva Shiksha Abhiyan (SSA)
+- **M** - Minimum Levels of Learning
+- **O** - (Omit detention - No-detention policy)
+- **N** - Non-formal education
+- **D** - DIET (District Institute of Education & Training)
+
+### **Student Welfare Schemes (5 Items):**
+**"MMTLF"** (Mid-Medical-Transport-Learning-Free)
+- **M** - Mid-day meal
+- **M** - Medical facilities
+- **T** - Transport (free)
+- **L** - Learning materials (free)
+- **F** - Free textbooks & uniforms
+
+### **Tamil Nadu Initiative:**
+**ABL** = **Activity Based Learning**
+
+### **Quick Recall:**
+- Article 45: Originally aimed for **1960**, postponed multiple times
+- Article 46: **SC/ST** support (scholarships, hostels, textbooks)
+- Main programme now: **SSA** (Sarva Shiksha Abhiyan)
+- UPE = Foundation for **literacy and national progress**
+- Solution: Both **formal** and **non-formal** education
+
+---

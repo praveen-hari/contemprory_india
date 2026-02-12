@@ -157,3 +157,72 @@ Rashtriya Madhyamik Shiksha Abhiyan (RMSA) is a major step towards universalizin
 
 ---
 
+## 📝 Key Points & Mnemonics for Exam Preparation
+
+### **Basic Facts:**
+- **Launched**: 2009
+- **Covers**: Standards **VI to XII**
+- **Age Group**: **14 to 18 years**
+
+### **Mnemonic for Distance Targets:**
+**"5-7-10 Rule"** (5 km Secondary, 7-10 km Higher Secondary)
+- Secondary school: Within **5 km** radius
+- Higher Secondary: Within **7-10 km** radius
+
+### **Mnemonic for Timeline Goals:**
+**"17-20"** (2017-2020)
+- **2017**: 100% enrollment
+- **2020**: Zero dropouts
+
+### **Mnemonic for 5 Goals of RMSA:**
+**"AECCI"** (A-Easy-See-I)
+1. **A** - Access (Easy access to secondary education)
+2. **E** - Equality and social justice
+3. **C** - Contemporary & development-oriented education
+4. **C** - Common school system
+5. **I** - Inclusive participation
+
+### **Mnemonic for Priority Groups (8 Groups):**
+**"EG-DRSS-OEM"** (Easy-DRESS-OEM)
+- **E** - Economically weaker students
+- **G** - Girls
+- **D** - Differently-abled children
+- **R** - Rural children
+- **S** - Scheduled Castes (SC)
+- **S** - Scheduled Tribes (ST)
+- **O** - Other Backward Classes (OBC)
+- **(E)** - (Educationally backward) Minorities
+- **M** - Minorities
+
+Or simpler: **"Girls, SC/ST, OBC, Differently-abled, Rural, EWS, Minorities"**
+
+### **Mnemonic for 5 Objectives:**
+**"IRTPN"** (IR-T-P-N)
+1. **I** - Infrastructure and facilities
+2. **R** - Residential schools in tribal areas
+3. **T** - Transport system (efficient)
+4. **(P)** - (Non-discrimination against) Poor/disabled
+5. **N** - Non-discrimination
+6. **(C)** - (Progress toward) Common school system
+
+### **Infrastructure Includes:**
+**"BLLTT"** (Buildings-Labs-Libraries-Toilets-TLM)
+- **B** - Buildings & classrooms
+- **L** - Laboratories
+- **L** - Libraries
+- **T** - Toilets & drinking water
+- **T** - Teaching-learning materials
+
+### **Vision Statement Key Words:**
+**"Quality + Accessible + Economical + Universal"**
+
+### **Quick Recall:**
+- RMSA = **Secondary education** scheme
+- SSA = **Elementary education** scheme
+- Both promote **inclusive and quality** education
+- Focus on **disadvantaged groups**
+- Support for **govt and aided schools**
+- Private schools **monitored** for facilities
+
+---
+
